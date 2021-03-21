@@ -1,1 +1,2 @@
 E:\LUUDULIEUSINHVIEN\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\khapham\test\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
